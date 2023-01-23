@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 612.74 490.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a66e43;
+        font-size: 400px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: Tangerine-Bold, Tangerine;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #649138;
+        font-size: 136.16px;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(146.87 376.13)"><tspan x="0" y="0">Thè</tspan></text>
+  <text class="cls-2" transform="translate(185.51 111.92) scale(.94 1)"><tspan x="0" y="0">per</tspan></text>
+  <image width="512" height="512" transform="translate(0 129.7) scale(.43 .47)" xlink:href="greentea.png"/>
+</svg>
